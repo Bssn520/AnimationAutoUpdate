@@ -10,6 +10,8 @@
 ### 🤪网站链接：[看の电の视](http://81.70.1.225:5244/Animation).   
 ##### 😜网站截图：   
 ![image](https://cdn.staticaly.com/gh/Bssn520/Images@master/Test/image.2ly5mw6wm460.webp)
+##### 登录按钮在页面底部哈🌈：
+![image](https://cdn.staticaly.com/gh/Bssn520/Images@master/Test/image.40dc991ldrg0.webp)
 ##### 默认账号:`qwq`  
 ##### 默认密码:`114514`
 ##### 😁联系我添加影视资源(请看思维导图)：
