@@ -21,4 +21,5 @@
 - 如果可以的话，烦请您动动小手点一下右上角的Star，这对我很重要，感谢。
 ##### 特别鸣谢：
 1.因为有[Alist项目](https://github.com/alist-org/alist)才能有这个方便的在线观影平台，感谢大佬！！！🙏  
-2.[Tacit0924大佬的影视更新文档](https://docs.qq.com/doc/DQkppQ1NvdGpYcXlH)，没有这位大佬的影视更新文档，也就无法完成每日动漫的及时更新及观看，感谢大佬让我每天能够方便的看动漫！！！🙏
+2.[Tacit0924大佬的影视更新文档](https://docs.qq.com/doc/DQkppQ1NvdGpYcXlH)，没有这位大佬的影视更新文档，也就无法完成每日动漫的及时更新及观看，感谢大佬让我每天能够方便的看动漫！！！🙏  
+<p align="right">2023.01.07</p>
