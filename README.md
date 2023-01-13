@@ -28,38 +28,48 @@
     - 有些资源使用的字幕为外挂字幕，Alist使用的播放器貌似无法加载字幕文件，请点击播放页面下方的第三方播放器
     - Windows平台可使用[Potplayer播放器](https://potplayer.daum.net/)
     - Mac平台可使用[IINA播放器](https://iina.io/)
-2. 以后有了再写......
+2. 在线播放无声音问题(如老友记)，同问题1......
+3. 日番的更新时间可能会比较迟，毕竟大佬翻译也要时间......
+4. 以后有了再写......
 
 #### 😭新增资源：
 
-| 资源名           | 增加日              | 存储路径(在网站上的路径)                    | 原分享者链接                                    | 来自平台     |
-|---------------|------------------|----------------------------------|-------------------------------------------|----------|
-| 《元龙》          | 2023.1.12下午16:27 | /Animation/周四-元龙                 | https://www.aliyundrive.com/s/khRt4QuxLg8 | Tacit0924 |
-| 《宫崎骏&新海诚合集》   | 2023.1.12下午16:40 | /Animation/汇总/动漫汇总/宫崎骏&新海诚合集     | https://www.aliyundrive.com/s/FzcMCgG8YwC | 小纸条      |
-| 《漫威电影合集》      | 2023.1.12下午16:45 | /Animation/汇总/电影汇总/漫威电影合集        | https://www.aliyundrive.com/s/rMAvoXgU6Uh | 小纸条      |
-| 《韩剧合集》        | 2023.1.12下午16:50 | /Animation/汇总/电视剧汇总/韩剧/Part1.合集  | https://www.aliyundrive.com/s/rmD5kDrGwPY | 小纸条      |
-| 《电影大全》        | 2023.1.12下午16:52 | /Animation/汇总/电影汇总/电影大全-已分类      | https://www.aliyundrive.com/s/CqbupXn2s2p | 小纸条      |
-| 《欧美剧合集》       | 2023.1.12下午17:06 | /Animation/汇总/电视剧汇总/欧美剧/Part1.合集 | https://www.aliyundrive.com/s/GHBG4reb8GD | 我的小站     |
-| 《大理寺日志》       | 2023.1.12下午17:35 | /Animation/周六-大理寺日志              | https://www.aliyundrive.com/s/hFgvpSXzCYd | Tacit0924 |
-| 《文豪野犬》        | 2023.1.12下午17:36 | /Animation/周三-文豪野犬               | https://www.aliyundrive.com/s/PLqpKoWmZPf | Tacit0924 |
-| 《间谍教室》        | 2023.1.12下午17:38 | /Animation/周四-间谍教室               | https://www.aliyundrive.com/s/M5DR3fk3t6D | K站       |
-| 《尼尔：机械纪元》     | 2023.1.12下午17:40 | /Animation/周日-尼尔：机械纪元            | https://www.aliyundrive.com/s/rkCnwHrSaaY | Tacit0924 |
-| 《冰属性男子与酷酷女同事》 | 2023.1.12下午17:41 | /Animation/周三-冰属性男子与酷酷女同事        | https://www.aliyundrive.com/s/Mh2fNLLo8AR | K站       |
-| 《生而为狗，我很幸福》   | 2023.1.12下午17:42 | /Animation/周五-生而为狗，我很幸福          | https://www.aliyundrive.com/s/qhN8WvPz4w3 | K站       |
-| 《魔王学院的不适任者》   | 2023.1.12下午17:43 | /Animation/周六-魔王学院的不适任者          | https://www.aliyundrive.com/s/ha1gxtjMpf3 | 我的小站     |
-| 《天使把我惯成废人》    | 2023.1.12下午17:44 | /Animation/周六-天使把我惯成废人           | https://www.aliyundrive.com/s/ERw2jFrXcVY | QQ频道2    |
-| 《为了养老金去异世界》   | 2023.1.12下午17:46 | /Animation/周六-为了养老金去异世界          | https://www.aliyundrive.com/s/R9JWnaz6xEB | 小纸条      |
-| 《盾娘2》         | 2023.1.12下午17:52 | /Animation/周三-盾娘2                | https://www.aliyundrive.com/s/PaixgMQ1g6E | QQ频道2    |
-|          |  |                 | 2023.1.12 晚 18:36 |     |
+| 资源名                | 增加日              | 存储路径(在网站上的路径)                    | 原分享者链接                                    | 来自平台      |
+|--------------------|------------------|----------------------------------|-------------------------------------------|-----------|
+| 《元龙》               | 2023.1.12下午16:27 | /Animation/周四-元龙                 | https://www.aliyundrive.com/s/khRt4QuxLg8 | Tacit0924 |
+| 《宫崎骏&新海诚合集》        | 2023.1.12下午16:40 | /Animation/汇总/动漫汇总/宫崎骏&新海诚合集     | https://www.aliyundrive.com/s/FzcMCgG8YwC | 小纸条       |
+| 《漫威电影合集》           | 2023.1.12下午16:45 | /Animation/汇总/电影汇总/漫威电影合集        | https://www.aliyundrive.com/s/rMAvoXgU6Uh | 小纸条       |
+| 《韩剧合集》             | 2023.1.12下午16:50 | /Animation/汇总/电视剧汇总/韩剧/Part1.合集  | https://www.aliyundrive.com/s/rmD5kDrGwPY | 小纸条       |
+| 《电影大全》             | 2023.1.12下午16:52 | /Animation/汇总/电影汇总/电影大全-已分类      | https://www.aliyundrive.com/s/CqbupXn2s2p | 小纸条       |
+| 《欧美剧合集》            | 2023.1.12下午17:06 | /Animation/汇总/电视剧汇总/欧美剧/Part1.合集 | https://www.aliyundrive.com/s/GHBG4reb8GD | 我的小站      |
+| 《大理寺日志》            | 2023.1.12下午17:35 | /Animation/周六-大理寺日志              | https://www.aliyundrive.com/s/hFgvpSXzCYd | Tacit0924 |
+| 《文豪野犬》             | 2023.1.12下午17:36 | /Animation/周三-文豪野犬               | https://www.aliyundrive.com/s/PLqpKoWmZPf | Tacit0924 |
+| 《间谍教室》             | 2023.1.12下午17:38 | /Animation/周四-间谍教室               | https://www.aliyundrive.com/s/M5DR3fk3t6D | K站        |
+| 《尼尔：机械纪元》          | 2023.1.12下午17:40 | /Animation/周日-尼尔：机械纪元            | https://www.aliyundrive.com/s/rkCnwHrSaaY | Tacit0924 |
+| 《冰属性男子与酷酷女同事》      | 2023.1.12下午17:41 | /Animation/周三-冰属性男子与酷酷女同事        | https://www.aliyundrive.com/s/Mh2fNLLo8AR | K站        |
+| 《生而为狗，我很幸福》        | 2023.1.12下午17:42 | /Animation/周五-生而为狗，我很幸福          | https://www.aliyundrive.com/s/qhN8WvPz4w3 | K站        |
+| 《魔王学院的不适任者》        | 2023.1.12下午17:43 | /Animation/周六-魔王学院的不适任者          | https://www.aliyundrive.com/s/ha1gxtjMpf3 | 我的小站      |
+| 《天使把我惯成废人》         | 2023.1.12下午17:44 | /Animation/周六-天使把我惯成废人           | https://www.aliyundrive.com/s/ERw2jFrXcVY | QQ频道2     |
+| 《为了养老金去异世界》        | 2023.1.12下午17:46 | /Animation/周六-为了养老金去异世界          | https://www.aliyundrive.com/s/R9JWnaz6xEB | 小纸条       |
+| 《盾娘2》              | 2023.1.12下午17:52 | /Animation/周三-盾娘2                | https://www.aliyundrive.com/s/PaixgMQ1g6E | QQ频道2     |
+|                    |                  |                                  | 2023.1.12 晚 18:36                         |           |
+| 《JOJO的奇妙冒险》        | 2023.1.13下午20:27 | /Animation/🤪Others/JOJO奇妙冒险     | https://www.aliyundrive.com/s/kaYTEa7ov7x | 我的小站      |
+| 《别当欧尼酱了》           | 2023.1.13下午20:30 | /Animation/周四-别当欧尼酱了             | https://www.aliyundrive.com/s/5qvh7PJSfX3 | Tacit0924 |
+| 《资源集散地》(资源太多,搜索使用) | 2023.1.13下午20:37 | /Animation/🤪Others/资源集散地        | https://www.aliyundrive.com/s/gHPXiBkw6LH | 不知名的大佬1    |
+|                    |                  |                                  | 2023.1.13 晚 20:40                         |           |
+
+#### 🥹一些话...:
+1. 以后有啥想说的再写吧hhh
 
 #### 🫡平台介绍：
 - Tacit0924 : https://docs.qq.com/doc/DQkppQ1NvdGpYcXlH    
 - 小纸条 : https://u.gitcafe.net
 - K站 : https://docs.qq.com/sheet/DQ1J1UXZkdHFwU09Y?tab=BB08J2
 - QQ频道2 : https://tinyurl.com/2qhknx2u
+- 我的小站 : https://pan666.cn
+- 不知名的大佬1 ： https://www.aliyundrive.com/s/gHPXiBkw6LH
 - 感谢这些平台和用户的资源共享！！！
 
 #### 🫡特别鸣谢：
 1.因为有[Alist项目](https://github.com/alist-org/alist)才能有这个方便的在线观影平台，感谢大佬！！！🙏  
-2.[Tacit0924大佬的影视更新文档](https://docs.qq.com/doc/DQkppQ1NvdGpYcXlH)，没有这位大佬的影视更新文档，也就无法完成每日动漫的及时更新及观看，感谢大佬让我每天能够方便的看动漫！！！🙏  
 <p align="right">2023.01.07</p>
