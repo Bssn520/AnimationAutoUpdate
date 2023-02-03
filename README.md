@@ -27,7 +27,7 @@
 - 没有出现在首页的影视大都加载在汇总目录，请自行搜索观看。 
 ---
 #### 😳问题记录：
-#### 我把问题及解决方法记录在了Notion上，您有任何疑问请查看：[Issue Logging](https://www.sakura.xn--6qq986b3xl/article/AnimationLssue)
+#### 我把问题及解决方法记录在了Notion上，您有任何疑问请查看：[Issue Logging](https://www.sakura.xn--6qq986b3xl/article/AnimationIssue)
 1. 播放无字幕问题
 2. 在线播放无声音问题(如老友记)，同问题1......
 3. 如何在ios、Android、Mac、Windows、Tv上舒服的食用。
