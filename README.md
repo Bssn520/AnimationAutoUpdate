@@ -71,6 +71,10 @@
 | 《凡人修仙传》          | 2023.2.6下午19:15       | /Animation/周日-凡人修仙传    | https://www.aliyundrive.com/s/TPxa3Y12gMs            |  Tacit0924      |
 | 《伊藤润二狂热：日本恐怖故事》 | 2023.2.6下午19:18   | /Animation/🤪Others/伊藤润二狂热:日本恐怖故事| https://www.aliyundrive.com/s/c5bTHsJBGdY|  Tacit0924      |
 |                      |                  |                       | 2023.2.6 晚 19:19                         |           |
+| 《伍六七之暗影宿命》          | 2023.2.18上午10:21 | /Animation/周三-伍六七之暗影宿命        | https://www.aliyundrive.com/s/Di18iggNS3m | Tacit0924 |
+|                      |                  |                       | 2023.2.18 早 10:23                         |           |
+
+
 #### 🥹一些话...:
 1. 小雅Alsit里的内容很全，本站引用了其中的电影、电视剧、综艺、纪录片，以后这几个类型应该会很少添加了.....
     - 我还是专注于动漫内容吧qqq
