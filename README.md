@@ -73,7 +73,14 @@
 |                      |                  |                       | 2023.2.6 晚 19:19                         |           |
 | 《伍六七之暗影宿命》          | 2023.2.18上午10:21 | /Animation/周三-伍六七之暗影宿命        | https://www.aliyundrive.com/s/Di18iggNS3m | Tacit0924 |
 |                      |                  |                       | 2023.2.18 早 10:23                         |           |
-
+| 《最强阴阳师的异世界转生记》 | 2023.2.21晚21:28 | /Animation/周日-最强阴阳师的异世界转生记 | https://www.aliyundrive.com/s/jKSYm8imTiS | 新番时间表 |
+| 《转生王女与天才千金的魔法革命》 | 2023.2.21晚21:30 | /Animation/周三-转生王女与天才千金的魔法革命 | https://www.aliyundrive.com/s/6RP4UMcMcQY | 新番时间表 |
+|《在地下城寻求邂逅是否搞错了什么》| 2023.2.21晚21:31 | Animation/周四-在地下城寻求邂逅是否搞错了什么 | https://www.aliyundrive.com/s/8GZjaxTazfQ | 新番时间表 |
+| 《我家大师兄有点靠谱》 | 2023.2.21晚21:34 | /Animation/周五-我家大师兄有点靠谱 | https://www.aliyundrive.com/s/RFMXa7ksYip | Tacit0924 |
+| 《神澜奇遇无双珠》 | 2023.2.21晚21:35 | /Animation/周六-神澜奇遇无双珠 | https://www.aliyundrive.com/s/h173DaRSwT6 | Tacit0924 |
+| 《虚构推理》 | 2023.2.21晚21:39 | /Animation/周日-虚构推理 | https://www.aliyundrive.com/s/1KmFoFfkrgF | 新番时间表 |
+| 《被神捡到的男人》 | 2023.2.21晚21:42 | /Animation/周日-被神捡到的男人 | https://www.aliyundrive.com/s/9f5gR3hkz4b | 新番时间表 |
+|  这两天更新了一下路径，去除了鸡肋的文件夹路径。 | 去除了一些分享中的推广文件，看着干净多了... |        | 2023.2.21 晚 22:03 |           |
 
 #### 🥹一些话...:
 1. 小雅Alsit里的内容很全，本站引用了其中的电影、电视剧、综艺、纪录片，以后这几个类型应该会很少添加了.....
@@ -88,6 +95,7 @@
 - K站 : https://docs.qq.com/sheet/DQ1J1UXZkdHFwU09Y?tab=BB08J2
 - QQ频道2 : https://tinyurl.com/2qhknx2u
 - 我的小站 : https://pan666.cn
+- 新番时间表 : https://docs.qq.com/sheet/DT1JsdG5tYXJsaUV2?tab=BB08J2
 - Bssn520 : 就是鄙人了.
 - 感谢这些平台和用户的资源共享！！！
 ---
