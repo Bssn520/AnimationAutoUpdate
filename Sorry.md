@@ -18,10 +18,10 @@
 <img src=https://cdn.staticaly.com/gh/Bssn520/Images@master/Test/jietu.6dfyqiwar4g0.webp width=100% />
 
 #### 三、如何加入本站
-- 分类合理，观影非常方便！
 - 扫描下方收款码(16.66元/年)！
 <img src=https://cdn.staticaly.com/gh/Bssn520/Images@master/Test/shopping.9mwl5naux5w.webp width=100% />  
 - 注意🚨，付款时一定要备注您的邮箱地址，账号密码会后续发到您的邮箱里！
+- 使用该账号，您亦可使用Webdav方式进行挂载观看，但注意，请不要尝试刮削，一经检测到，立即封号处理，永久拉黑！！！
 - 之前打赏过的老哥🫡，请向我发送邮件并附上打赏截图，我会为您免费创建账号！感谢之前的帮助！🙏
 
 #### 四、本站的独特之处
